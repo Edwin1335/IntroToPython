@@ -21,8 +21,6 @@ print(f"Keep first 5 elements: {numbers}")
 numbers[:] = []
 print(f"Remove all elements: {numbers}")
 
-
-
 """
 (IPython Session2)
 Create a list called numbers containing the values from 1 through

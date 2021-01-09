@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="074ec685-81d7-48c3-8d0e-c8379acc6834" name="Default Changelist" comment="Chapter 5 notes and Sessions completed">
-      <change afterPath="$PROJECT_DIR$/Chapter Notes/Chapter5 - List and Tuples/BarGraphs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter Notes/Chapter5 - List and Tuples/PieChart.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists/NumberAnalysisProgram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter Notes/Chapter5 - List and Tuples/Plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter Notes/Chapter5 - List and Tuples/ScatterPlot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists/PythonSession.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists/PythonSession.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +90,7 @@
       <workItem from="1610078522904" duration="15000" />
       <workItem from="1610078548333" duration="1170000" />
       <workItem from="1610172341188" duration="20005000" />
-      <workItem from="1610192907102" duration="5351000" />
+      <workItem from="1610192907102" duration="6296000" />
     </task>
     <task id="LOCAL-00001" summary="Updating from PyCharm IDE">
       <created>1610078582222</created>
@@ -151,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610195647523</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Chapter 5 plots completed">
+      <created>1610198687229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610198687229</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,13 +182,14 @@
     <MESSAGE value="&quot;Simulation: The Tortoise and the Hare&quot; challenge completed" />
     <MESSAGE value="Chapter 5 notes and Sessions completed" />
     <MESSAGE value="Reorganizing + Plotting chapter completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reorganizing + Plotting chapter completed" />
+    <MESSAGE value="Chapter 5 plots completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 5 plots completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IntroToPython$ArbituraryFunctions.coverage" NAME="ArbituraryFunctions Coverage Results" MODIFIED="1610173855491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
     <SUITE FILE_PATH="coverage/IntroToPython$Chapter.coverage" NAME="Chapter Coverage Results" MODIFIED="1610174180196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
     <SUITE FILE_PATH="coverage/IntroToPython$ModifyAverageFunction.coverage" NAME="ModifyAverageFunction Coverage Results" MODIFIED="1610178794691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions" />
     <SUITE FILE_PATH="coverage/IntroToPython$GuessTheNumberModification.coverage" NAME="TheTourtoiseAndTheHairRace Coverage Results" MODIFIED="1610184471558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions" />
-    <SUITE FILE_PATH="coverage/IntroToPython$Run.coverage" NAME="Run Coverage Results" MODIFIED="1610198303790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists" />
+    <SUITE FILE_PATH="coverage/IntroToPython$Run.coverage" NAME="Run Coverage Results" MODIFIED="1610199220289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists" />
   </component>
 </project>
