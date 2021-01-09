@@ -1,18 +1,21 @@
 import random
 import statistics
 
+
 def square(number):
-    #Calculate the square of a number
+    # Calculate the square of a number
     return number ** 2
 
+
 def maximum(number1, number2, number3):
-    '''Return the maximum of three values'''
+    """Return the maximum of three values"""
     max_value = number1
-    if(max_value < number2):
+    if (max_value < number2):
         max_value = number2
-    if(max_value < number3):
+    if (max_value < number3):
         max_value = number3
     return max_value
+
 
 '''Test the frequency of a six-sided die'''
 frequency1 = 0
@@ -23,9 +26,9 @@ frequency5 = 0
 frequency6 = 0
 
 for roll in range(6_000_000):
-    face = random.randrange(1,7)
+    face = random.randrange(1, 7)
 
-    #Increment face counters
+    # Increment face counters
     if face == 1:
         frequency1 += 1
     elif face == 2:
