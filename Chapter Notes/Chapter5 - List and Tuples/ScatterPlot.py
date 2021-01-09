@@ -7,7 +7,7 @@ def main():
 
     # The plot function builds the graph in memory but does not display it
     plt.plot(x_coord, y_coord, marker='o')
-
+    # plt.plot(x_coord, y_coord, 'o') = no lines like a SCATTER PLOT
     # Customizing the plot with names
     plt.title("Sale by Year")
     plt.xlabel("Year")
