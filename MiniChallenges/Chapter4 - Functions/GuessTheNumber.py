@@ -46,5 +46,4 @@ while True:
     else:
         print("Incorrect Input")
 
-
 print("Thank you for playing")
