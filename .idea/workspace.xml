@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="074ec685-81d7-48c3-8d0e-c8379acc6834" name="Default Changelist" comment="&quot;Simulation: The Tortoise and the Hare&quot; challenge completed">
-      <change afterPath="$PROJECT_DIR$/Chapter Notes/Chapter5ListAndTuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists/CubeGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists/PythonSession.py" afterDir="false" />
+    <list default="true" id="074ec685-81d7-48c3-8d0e-c8379acc6834" name="Default Changelist" comment="Chapter 5 notes and Sessions completed">
+      <change afterPath="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists/RollingDieDataScience.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IntroToPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IntroToPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +19,19 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1mlpcxXzNWW8JigwSWkXvGLIGws" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter Notes/Chapter5ListAndTuples.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists/RollingDieDataScience.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -53,13 +61,13 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\IntroToPython\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Notes" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Notes/Chapter5ListAndTuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists/RollingDieDataScience.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +88,8 @@
       <workItem from="1610078193822" duration="94000" />
       <workItem from="1610078522904" duration="15000" />
       <workItem from="1610078548333" duration="1170000" />
-      <workItem from="1610172341188" duration="18068000" />
+      <workItem from="1610172341188" duration="20005000" />
+      <workItem from="1610192907102" duration="2274000" />
     </task>
     <task id="LOCAL-00001" summary="Updating from PyCharm IDE">
       <created>1610078582222</created>
@@ -124,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610182609937</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Chapter 5 notes and Sessions completed">
+      <created>1610191573989</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610191573989</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,13 +165,14 @@
     <MESSAGE value="Reorganizing Files. &quot;Guess my number&quot; challenge completed." />
     <MESSAGE value="&quot;Guess my number modified&quot; challenge completed" />
     <MESSAGE value="&quot;Simulation: The Tortoise and the Hare&quot; challenge completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Simulation: The Tortoise and the Hare&quot; challenge completed" />
+    <MESSAGE value="Chapter 5 notes and Sessions completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 5 notes and Sessions completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IntroToPython$ArbituraryFunctions.coverage" NAME="ArbituraryFunctions Coverage Results" MODIFIED="1610173855491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
     <SUITE FILE_PATH="coverage/IntroToPython$Chapter.coverage" NAME="Chapter Coverage Results" MODIFIED="1610174180196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
     <SUITE FILE_PATH="coverage/IntroToPython$ModifyAverageFunction.coverage" NAME="ModifyAverageFunction Coverage Results" MODIFIED="1610178794691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions" />
     <SUITE FILE_PATH="coverage/IntroToPython$GuessTheNumberModification.coverage" NAME="TheTourtoiseAndTheHairRace Coverage Results" MODIFIED="1610184471558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions" />
-    <SUITE FILE_PATH="coverage/IntroToPython$Run.coverage" NAME="Run Coverage Results" MODIFIED="1610190568279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
+    <SUITE FILE_PATH="coverage/IntroToPython$Run.coverage" NAME="Run Coverage Results" MODIFIED="1610195136024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter5 - Tuples and Lists" />
   </component>
 </project>
