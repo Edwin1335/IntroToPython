@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="074ec685-81d7-48c3-8d0e-c8379acc6834" name="Default Changelist" comment="Chapter 5 notes and Sessions completed">
-      <change afterPath="$PROJECT_DIR$/Chapter Notes/Chapter6 - More About Strings/ExtractCharFromString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter Notes/Chapter6 - More About Strings/ValidatePassword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniChallenges/Chapter6 - More About Strings/SentenceCapitalizer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter Notes/Chapter6 - More About Strings/ValidatePassword.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MiniChallenges/Chapter6 - More About Strings/SentenceCapitalizer.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -63,12 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Notes/Chapter6 - More About Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiniChallenges/Chapter6 - More About Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Notes/Chapter6 - More About Strings/ValidatePassword.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiniChallenges/Chapter6 - More About Strings/SentenceCapitalizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +89,7 @@
       <workItem from="1610078522904" duration="15000" />
       <workItem from="1610078548333" duration="1170000" />
       <workItem from="1610172341188" duration="20005000" />
-      <workItem from="1610192907102" duration="13571000" />
+      <workItem from="1610192907102" duration="16734000" />
     </task>
     <task id="LOCAL-00001" summary="Updating from PyCharm IDE">
       <created>1610078582222</created>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610201929314</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;Password Encryption&quot; challenges completed">
+      <created>1610206911959</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610206911959</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,13 +205,14 @@
     <MESSAGE value="Chapter 5 plots completed" />
     <MESSAGE value="&quot;Number Analysis Program&quot; challenge completed" />
     <MESSAGE value="&quot;Lo Shu Magic Square&quot; challenge completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Lo Shu Magic Square&quot; challenge completed" />
+    <MESSAGE value="&quot;Password Encryption&quot; challenges completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Password Encryption&quot; challenges completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IntroToPython$ArbituraryFunctions.coverage" NAME="ArbituraryFunctions Coverage Results" MODIFIED="1610173855491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
     <SUITE FILE_PATH="coverage/IntroToPython$Chapter.coverage" NAME="Chapter Coverage Results" MODIFIED="1610174180196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
     <SUITE FILE_PATH="coverage/IntroToPython$ModifyAverageFunction.coverage" NAME="ModifyAverageFunction Coverage Results" MODIFIED="1610178794691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions" />
     <SUITE FILE_PATH="coverage/IntroToPython$GuessTheNumberModification.coverage" NAME="TheTourtoiseAndTheHairRace Coverage Results" MODIFIED="1610184471558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions" />
-    <SUITE FILE_PATH="coverage/IntroToPython$Run.coverage" NAME="Run Coverage Results" MODIFIED="1610206594089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes/Chapter6 - More About Strings" />
+    <SUITE FILE_PATH="coverage/IntroToPython$Run.coverage" NAME="Run Coverage Results" MODIFIED="1610209778088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter6 - More About Strings" />
   </component>
 </project>
