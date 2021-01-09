@@ -1,4 +1,4 @@
-'''
+"""
 Write a script that inputs a
 purchase price of a dollar or less for an item. Assume the purchaser pays with a dollar bill.
 Determine the amount of change the cashier should give back to the purchaser. Display
@@ -8,7 +8,7 @@ Your change is:
 2 quarters
 2 dimes
 3 pennies
-'''
+"""
 
 # Variables needed
 quarters = 0
@@ -23,10 +23,10 @@ nickel_value = .05
 dime_value = .10
 
 
-# Get the chenge from the user 
+# Get the change from the user
 change = float(input("What is the total change: "))
 
-# Get the number of quartes
+# Get the number of quarters
 quarters = int(change // quarter_value)
 change = change - (quarter_value * quarters)
 
@@ -43,4 +43,4 @@ pennies = int(round(change / penny_value))
 change = change - (penny_value * pennies)
 
 # Output answer
-print(f"Your Change is : \nQuarters: {quarters} \nDimes: {dimes:} \nNikles: {nickles} \nPennies: {pennies}")
+print(f"Your Change is : \nQuarters: {quarters} \nDimes: {dimes:} \nNickles: {nickles} \nPennies: {pennies}")
