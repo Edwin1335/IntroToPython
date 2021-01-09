@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="074ec685-81d7-48c3-8d0e-c8379acc6834" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions/ModifyAverageFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniChallenges/Random/Testing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/change.py" beforeDir="false" afterPath="$PROJECT_DIR$/Change.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tableOfSquares.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableOfSquares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter Notes/Chapter4Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter Notes/Chapter4Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenges/ArbitraryFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions/ArbitraryFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenges/Change.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions/Change.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenges/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenges/Random/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenges/GameOfChance.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions/GameOfChance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenges/TableOfSquares.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenges/Random/TableOfSquares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenges/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions/GuessTheNumber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,10 +38,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ArbitraryFunction.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions/GuessTheNumber.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\Computer Science\Python\IntroToPython\MiniChallenges\Random" />
+      <recent name="D:\Documents\Computer Science\Python\IntroToPython\MiniChallenges\Chapter4 - Functions" />
+      <recent name="D:\Documents\Computer Science\Python\IntroToPython\MiniChallenges" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ModifyAverageFunction">
     <configuration name="ArbituraryFunctions" type="PythonConfigurationType" factoryName="Python">
       <module name="IntroToPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -38,12 +57,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Notes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArbitraryFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Notes/Chapter4Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,6 +71,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Chapter" type="PythonConfigurationType" factoryName="Python">
+      <module name="IntroToPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\IntroToPython\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Notes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Notes/Chapter4Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ModifyAverageFunction" type="PythonConfigurationType" factoryName="Python">
+      <module name="IntroToPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\IntroToPython\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions/GuessTheNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Chapter" />
+      <item itemvalue="Python.ModifyAverageFunction" />
+      <item itemvalue="Python.ArbituraryFunctions" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +132,7 @@
       <workItem from="1610078193822" duration="94000" />
       <workItem from="1610078522904" duration="15000" />
       <workItem from="1610078548333" duration="1170000" />
-      <workItem from="1610172341188" duration="806000" />
+      <workItem from="1610172341188" duration="6131000" />
     </task>
     <task id="LOCAL-00001" summary="Updating from PyCharm IDE">
       <created>1610078582222</created>
@@ -80,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610172458190</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reorganizing Files">
+      <created>1610173491992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610173491992</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,9 +176,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating from PyCharm IDE" />
     <MESSAGE value="Modifying code to be use best practices" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifying code to be use best practices" />
+    <MESSAGE value="Reorganizing Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganizing Files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IntroToPython$ArbituraryFunctions.coverage" NAME="ArbituraryFunctions Coverage Results" MODIFIED="1610079117480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IntroToPython$ArbituraryFunctions.coverage" NAME="ArbituraryFunctions Coverage Results" MODIFIED="1610173855491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
+    <SUITE FILE_PATH="coverage/IntroToPython$Chapter.coverage" NAME="Chapter Coverage Results" MODIFIED="1610174180196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter Notes" />
+    <SUITE FILE_PATH="coverage/IntroToPython$ModifyAverageFunction.coverage" NAME="ModifyAverageFunction Coverage Results" MODIFIED="1610178457802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MiniChallenges/Chapter4 - Functions" />
   </component>
 </project>

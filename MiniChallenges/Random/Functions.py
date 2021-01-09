@@ -10,9 +10,9 @@ def square(number):
 def maximum(number1, number2, number3):
     """Return the maximum of three values"""
     max_value = number1
-    if (max_value < number2):
+    if max_value < number2:
         max_value = number2
-    if (max_value < number3):
+    if max_value < number3:
         max_value = number3
     return max_value
 
